@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a27b93bf-c8d6-4633-8729-f5540c5a1d0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZY7Asy6YX52tZrRbnYaizYygsF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.efimchick.tasks.figures.Main" />
+      <module name="Figures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.efimchick.tasks.figures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FiguresTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Figures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.efimchick.tasks.figures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.efimchick.tasks.figures" />
+      <option name="MAIN_CLASS_NAME" value="com.efimchick.tasks.figures.FiguresTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FiguresTest.compareByHorizontalCenterPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Figures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.efimchick.tasks.figures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.efimchick.tasks.figures" />
+      <option name="MAIN_CLASS_NAME" value="com.efimchick.tasks.figures.FiguresTest" />
+      <option name="METHOD_NAME" value="compareByHorizontalCenterPosition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FiguresTest.compareByHorizontalStartPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Figures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.efimchick.tasks.figures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.efimchick.tasks.figures" />
+      <option name="MAIN_CLASS_NAME" value="com.efimchick.tasks.figures.FiguresTest" />
+      <option name="METHOD_NAME" value="compareByHorizontalStartPosition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FiguresTest.testQuadTheSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Figures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.efimchick.tasks.figures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.efimchick.tasks.figures" />
+      <option name="MAIN_CLASS_NAME" value="com.efimchick.tasks.figures.FiguresTest" />
+      <option name="METHOD_NAME" value="testQuadTheSame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.FiguresTest" />
+        <item itemvalue="JUnit.FiguresTest.compareByHorizontalStartPosition" />
+        <item itemvalue="JUnit.FiguresTest.compareByHorizontalCenterPosition" />
+        <item itemvalue="JUnit.FiguresTest.testQuadTheSame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a27b93bf-c8d6-4633-8729-f5540c5a1d0c" name="Default Changelist" comment="" />
+      <created>1585004034296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585004034296</updated>
+      <workItem from="1585004037430" duration="7104000" />
+      <workItem from="1585052366076" duration="19712000" />
+      <workItem from="1585092324205" duration="2744000" />
+      <workItem from="1585130269159" duration="894000" />
+      <workItem from="1585166289370" duration="3569000" />
+      <workItem from="1585225360379" duration="2900000" />
+      <workItem from="1585338309306" duration="1449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="170" y="127" width="1650" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585065875158">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="170" y="127" width="1650" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585065875158" />
+    <state x="803" y="265" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1585004547226">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="803" y="265" width="374" height="584" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1585004547226" />
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1585339758351">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585339758351" />
+    <state width="1804" height="275" key="GridCell.Tab.0.center" timestamp="1585339758349">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585339758349" />
+    <state width="1804" height="275" key="GridCell.Tab.0.left" timestamp="1585339758348">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585339758348" />
+    <state width="1804" height="275" key="GridCell.Tab.0.right" timestamp="1585339758350">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585339758350" />
+    <state width="1804" height="340" key="GridCell.Tab.1.bottom" timestamp="1585095068884">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585095068884" />
+    <state width="1804" height="340" key="GridCell.Tab.1.center" timestamp="1585095068883">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585095068883" />
+    <state width="1804" height="340" key="GridCell.Tab.1.left" timestamp="1585095068882">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585095068882" />
+    <state width="1804" height="340" key="GridCell.Tab.1.right" timestamp="1585095068883">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585095068883" />
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585338308921">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585338308921" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/efimchick/tasks/figures/FiguresTest.java</url>
+          <line>915</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/efimchick/tasks/figures/FiguresTest.java</url>
+          <line>782</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/efimchick/tasks/figures/FiguresTest.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/efimchick/tasks/figures/Main.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/efimchick/tasks/figures/Main.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="slope_u*x" language="JAVA" />
+        <watch expression="b_u" language="JAVA" />
+        <watch expression="t1.centroid()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
