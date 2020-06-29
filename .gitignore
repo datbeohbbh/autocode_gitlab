@@ -6,7 +6,7 @@ target/
 
 # ignore .iml , .xml
 
-/*.iml
-/*.xml
+*.iml
+*.xml
 
 
