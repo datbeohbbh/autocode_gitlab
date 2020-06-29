@@ -1,1 +1,3 @@
-# autocode_gitlab
+# Autocode Gitlab
+
+* need to add `.gitignore` *
